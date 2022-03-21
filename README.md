@@ -38,7 +38,7 @@ Prima di iniziare, scarica questa repo sul tuo pc in locale.
    6. Rimuovere il container creato.
 
 6. Scrivi un Dockerfile per un'applicazione React
-   1. Scarica l'applicazione React da questo link: https://github.ibm.com/IBM-Garage-Italy/techgym-one-fe
+   1. Scarica l'applicazione React da questo link: https://github.com/Techgym-Session1/Game
    2. Svolgi tutti i punti elencati all'interno del file `Dockerfile`
    4. Builda il container con il comando `docker build -t techgym-game .`
    5. Fai partire il container con il comando `docker run -d -p 3000:3000 techgym-game`
