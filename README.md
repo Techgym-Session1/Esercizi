@@ -15,7 +15,7 @@ Prima di iniziare, scarica questa repo sul tuo pc in locale.
    4. Testare il funzionamento del container con  `curl localhost:3000`.
   
 3. Salvare il container creando una nuova immagine. Run della nuova immagine.
-   1. Salvare il container creato nel punto 2 creando una nuova immagine con il nome "my-techgym-  image"
+   1. Salvare il container creato nel punto 2 creando una nuova immagine con il nome "my-techgym-image"
    2. Rimuovere il container dopo aver creato l'immagine.
    3. Avviare un nuovo container partendo dall'immagine appena creata, sulla porta locale `3000`, esponendo la porta `80`, in modalità background.
    4. Testare il funzionamento del container con  `curl localhost:3000`.
